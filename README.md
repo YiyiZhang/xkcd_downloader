@@ -51,6 +51,11 @@ python xkcd_downloader.py --random 5
 python xkcd_downloader.py --random 5 -d
 ```
 
+Fetch comics and add them to a specific directory (ex: pictures):
+```shell
+python xkcd_downloader.py -o /user/username/pictures
+```
+
 Configuration
 -------------
 
